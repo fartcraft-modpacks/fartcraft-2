@@ -6,7 +6,10 @@
 # config
 !/config/gtceu.yaml
 
-# mods
+# whitelist entire mods folder until i figure out how to use minecraftinstance.json
+!/mods/**
+
+# mods 
 !/mods/trailsandnails*
 !/mods/better-end*
 !/mods/better-nether*
