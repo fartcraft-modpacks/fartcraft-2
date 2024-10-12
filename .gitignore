@@ -6,5 +6,9 @@
 # config
 !/config/gtceu.yaml
 
-#mods
-!/mods/trailsandnails*.jar
+# mods
+!/mods/trailsandnails*
+!/mods/better-end*
+!/mods/better-nether*
+!/mods/bclib*
+!/mods/VMod*
