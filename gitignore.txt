@@ -1,0 +1,7 @@
+# use as whitelist
+*
+!*/
+!/.gitignore
+
+# config
+!/config/gtceu.yaml
