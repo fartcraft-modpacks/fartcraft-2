@@ -15,5 +15,3 @@
 
 # whitelist entire mods folder until i figure out how to use minecraftinstance.json
 !/mods/**.jar
-/mods/.connector
-/mods/.index
